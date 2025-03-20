@@ -4,6 +4,8 @@ Unterschied zwischen Programmieren und Maschinellem Lernen
 
 
 Was ist ein Netz und was ein Modell?
+Etwas schwamming in der Nutzung, initial wurden als Neuronale Netze jene Architekturen bezeichnet, die am Gehirn orientiert sind. Als Modelle bezeichnet man alle Architekturen, mit denen man Vorhersagen und Mustererkennung erreichen kann - da fallen Neuronale Netze mit hinein. Inzwischen nutzt man die Begriffe fliessend, da viele Modelle wie LLMS im Kern Neuronale Netze enthalten, aber auch viel drumrum. Am Ende sind es Neural Network Models. Zur Unterscheidung finde ich in Anbetracht dessen folgende Unterscheidung (im Deutschen) bisher am wenigsten verwirrend:
+
 -> Netz: Die Grundstruktur, die sog Architektur. Das ist das, was wir als Menschen programmieren. 
 
 ->Modell: Das was rausfällt, wenn man ein Netz mit Millionen,Milliarden an Daten trainiert. 
