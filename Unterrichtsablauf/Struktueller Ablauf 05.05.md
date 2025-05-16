@@ -36,13 +36,13 @@ Vertiefung Grundlagenbegriffe:
 * Jo3 Bsp Mnist notebook
 
 
-Raum für Fragen und Diskurs
-Rückfragen?
+* Raum für Fragen und Diskurs
+* Rückfragen?
      Wenn nicht, tiefer auf Mindmap eingehen
 
 ### Stunde 3:
-Raum für Fragen und Diskurs
-Praxisbeispiel Deepfakes generieren, selbstständige Arbeit, Diskussionen und Fragen
+* Raum für Fragen und Diskurs
+* Praxisbeispiel Deepfakes generieren, selbstständige Arbeit, Diskussionen und Fragen
 
 https://aifaceswapper.io/
 https://aifaceswap.io/#face-swap-playground
@@ -50,7 +50,21 @@ https://aifaceswap.io/#face-swap-playground
 https://real-or-fake-the-ai-game.onrender.com/
 https://sightengine.com/ai-or-not?version=2024Q3
 
-Wiederholung was haben wir heute gelernt?
+* Wiederholung was haben wir heute gelernt?
 
-### TAG 2  (noch offen)
+### TAG 2 
+* IHK-Prüfung
+* (Un)Sinn aktueller Implementierung
+	* Was ist Hype, was real?
+* Betrachtung sicherheitsrelevante Aspekte und Herangehensweise
+* Beispiele aus Industrie - the good, the bad and the ugly
+
+* schware/starke KI
+* Tieferer Einblick in LLM-Architektur (oder wahlweise auf eine relevante Fragestellung)
+
+* Rückfragen?
+    
+* Ausblick/Zukunft/Gesellschaftliche Implikationen/offenener Diskurs
+
+* Feedbackrunde 
 
