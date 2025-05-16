@@ -15,6 +15,9 @@ Architekturvisualisierung:
 * https://bbycroft.net/
 * https://bbycroft.net/llm   
 
+Prompt-Injection CTF:
+* https://gandalf.lakera.ai/gandalf-the-white
+
 ##### Werkzeuge
 * https://notebooklm.google/ --> sehr nützliches Werkzeug zur Nachbereitung und Recherche
 * https://api.together.xyz/signin?redirectUrl=/playground/chat Verschiedene Modelle ausprobieren
